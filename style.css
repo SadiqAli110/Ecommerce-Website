@@ -1,0 +1,38 @@
+#shopName {
+    text-align: center;
+ font-size: large;
+
+
+}
+#h3{
+    background-color:rgb(193, 154, 107);
+}
+#footer  {
+    /* text-decoration:none;
+    list-style: none ;
+     */
+     color: white;
+}
+#img{
+    display: inline;
+}
+.button {
+    background-color: #7b3f00;
+    border: none;
+    color: white;
+    padding: 10px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .cards button :hover{
+      opacity: 0.7;
+      background: white;
+  }
+  #contactbox{
+      background: #7b3f00;
+      color: white;
+  }
